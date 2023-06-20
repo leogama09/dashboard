@@ -87,8 +87,9 @@
     margin: auto;
     display: flex;
     height: 100%;
-    align-items: center;
-    margin-top: -4rem;
+    /* align-items: center; */
+    /* uncomment the "align items center" and make "margin top -4rem" */
+    margin-top: 4rem;
 }
 
 .content > div {
